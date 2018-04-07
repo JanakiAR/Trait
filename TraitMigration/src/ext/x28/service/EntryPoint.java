@@ -16,7 +16,7 @@ public class EntryPoint {
 		/**
 		 * 
 		 */
-		System.out.println("Second Test");
+		System.out.println("Second Test ");
 	}
 
 }
